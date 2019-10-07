@@ -1,1 +1,1 @@
-# ndlygaSyr.github.io
+# IST 363 Midterm Project Example
