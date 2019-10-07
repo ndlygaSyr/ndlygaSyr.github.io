@@ -1,3 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
 .header-bg {
     background-image: url(./images/ekmeds-photos-Csk0z5DRb1M-unsplash.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    min-height: 600px;
 }
+
+.bg-primary {
+    background-color: #0597F2!important;
+}
+
+.scripty {
+    font-family: 'Just Another Hand', cursive;
+    letter-spacing: 2px;
+}
+
